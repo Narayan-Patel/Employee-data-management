@@ -1,0 +1,36 @@
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee_Data.ADD.resources
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee_Data.Form1.resources
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee_Data.Properties.Resources.resources
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee Data.pdb
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee_Data.Search.resources
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\bin\Debug\DD1.mdf
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\bin\Debug\DD1_log.ldf
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee_Data.UpdateEmp.resources
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee_Data.DeleteEmp.resources
+C:\Users\SK\Desktop\Narayan Patel\vs codes\Employee Data\Employee Data\obj\Debug\Employee_Data.ShowAllEmp.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\bin\Debug\DD1.mdf
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\bin\Debug\DD1_log.ldf
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee_Data.ADD.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee_Data.DeleteEmp.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee_Data.Form1.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee_Data.Properties.Resources.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee_Data.Search.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee_Data.ShowAllEmp.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee_Data.UpdateEmp.resources
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\SK\Desktop\Mayur\EmployeeManagement\Employee Data\Employee Data\obj\Debug\Employee Data.pdb
